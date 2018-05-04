@@ -1,0 +1,9 @@
+body {
+  font-family: "Museo Sans", Arial, Helvetica, Verdana, sans-serif;
+  background-color: gainsboro;
+}
+
+.form {
+  margin: auto;
+  width: 80%;
+}
